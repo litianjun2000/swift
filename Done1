@@ -1,0 +1,6 @@
+google{
+  var time = 0.0 
+  if(start){
+    time++
+  }
+}
